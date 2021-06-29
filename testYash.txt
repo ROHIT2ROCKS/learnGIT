@@ -1,2 +1,3 @@
-Hi yash this is the new Line added.
-You must see this after you pull.
+Hi yash.
+I hope you have pulled this from GIT bash
+BE Happy
